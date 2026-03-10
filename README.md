@@ -5,6 +5,7 @@ In this dataset, there are two types of data: permeability field and local multi
 
 # Dataset Acquisition
 As github does not accept large file, we have upload the file to Kaggle. The link is: 
++ basis2: https://www.kaggle.com/datasets/peiqiliuol/darcydataset30basis2
 
 # Reference
 [1] E.Chung, Y.Efendiev, C.Lee, Mixed generalized finite element methods and applications, _Multiscale Modeling & Simulation_, vol. 13, No. 1, pp. 338-366, 2015, doi: https://doi.org/10.1137/140970574.
